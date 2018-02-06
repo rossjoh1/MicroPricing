@@ -1,0 +1,12 @@
+services:
+  appraisalpricing:
+    build:
+      context: D:\Code\MicroPricing
+      dockerfile: AppraisalPricing/Dockerfile
+    image: pricing-appraisal
+  feeschedulepricing:
+    build:
+      context: D:\Code\MicroPricing
+      dockerfile: FeeSchedulePricing/Dockerfile
+    image: pricing-feeschedule
+version: '3.0'

@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+  appraisalpricing:
+    image: pricing-appraisal
+    build:
+      context: .
+      dockerfile: AppraisalPricing/Dockerfile
+
+  feeschedulepricing:
+    image: pricing-feeschedule
+    build:
+      context: .
+      dockerfile: FeeSchedulePricing/Dockerfile
+

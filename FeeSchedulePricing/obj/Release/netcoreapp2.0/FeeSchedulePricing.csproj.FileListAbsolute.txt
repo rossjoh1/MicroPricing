@@ -1,0 +1,11 @@
+D:\Code\MicroPricing\FeeSchedulePricing\bin\Release\netcoreapp2.0\FeeSchedulePricing.dll.config
+D:\Code\MicroPricing\FeeSchedulePricing\bin\Release\netcoreapp2.0\FeeSchedulePricing.deps.json
+D:\Code\MicroPricing\FeeSchedulePricing\bin\Release\netcoreapp2.0\FeeSchedulePricing.runtimeconfig.json
+D:\Code\MicroPricing\FeeSchedulePricing\bin\Release\netcoreapp2.0\FeeSchedulePricing.runtimeconfig.dev.json
+D:\Code\MicroPricing\FeeSchedulePricing\bin\Release\netcoreapp2.0\FeeSchedulePricing.dll
+D:\Code\MicroPricing\FeeSchedulePricing\bin\Release\netcoreapp2.0\FeeSchedulePricing.pdb
+D:\Code\MicroPricing\FeeSchedulePricing\obj\Release\netcoreapp2.0\FeeSchedulePricing.csproj.CoreCompileInputs.cache
+D:\Code\MicroPricing\FeeSchedulePricing\obj\Release\netcoreapp2.0\FeeSchedulePricing.AssemblyInfoInputs.cache
+D:\Code\MicroPricing\FeeSchedulePricing\obj\Release\netcoreapp2.0\FeeSchedulePricing.AssemblyInfo.cs
+D:\Code\MicroPricing\FeeSchedulePricing\obj\Release\netcoreapp2.0\FeeSchedulePricing.dll
+D:\Code\MicroPricing\FeeSchedulePricing\obj\Release\netcoreapp2.0\FeeSchedulePricing.pdb

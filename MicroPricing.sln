@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppraisalPricing", "AppraisalPricing\AppraisalPricing.csproj", "{7FECA30C-3696-46C3-A7A0-144F3C36AE02}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{A7985546-DC30-49CD-B163-6444C6CDBCED}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{173D5539-A0C5-4E14-92F7-9F0459099FED}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FeeSchedulePricing", "FeeSchedulePricing\FeeSchedulePricing.csproj", "{4221123E-5456-43EF-B66C-02B876FB171C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MicroPricingGateway", "MicroPricingGateway\MicroPricingGateway.csproj", "{49D9DF7F-93DE-4323-BBCB-44059B5B7BB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SamplePricingClient", "C:\Data\Code\MicroPricing\SamplePricingClient\SamplePricingClient.csproj", "{1520447B-ACA4-4F24-B5C4-420F108D935D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FECA30C-3696-46C3-A7A0-144F3C36AE02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FECA30C-3696-46C3-A7A0-144F3C36AE02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FECA30C-3696-46C3-A7A0-144F3C36AE02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FECA30C-3696-46C3-A7A0-144F3C36AE02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7985546-DC30-49CD-B163-6444C6CDBCED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7985546-DC30-49CD-B163-6444C6CDBCED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7985546-DC30-49CD-B163-6444C6CDBCED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7985546-DC30-49CD-B163-6444C6CDBCED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4221123E-5456-43EF-B66C-02B876FB171C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4221123E-5456-43EF-B66C-02B876FB171C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4221123E-5456-43EF-B66C-02B876FB171C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4221123E-5456-43EF-B66C-02B876FB171C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49D9DF7F-93DE-4323-BBCB-44059B5B7BB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49D9DF7F-93DE-4323-BBCB-44059B5B7BB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49D9DF7F-93DE-4323-BBCB-44059B5B7BB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49D9DF7F-93DE-4323-BBCB-44059B5B7BB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1520447B-ACA4-4F24-B5C4-420F108D935D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1520447B-ACA4-4F24-B5C4-420F108D935D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1520447B-ACA4-4F24-B5C4-420F108D935D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1520447B-ACA4-4F24-B5C4-420F108D935D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7FECA30C-3696-46C3-A7A0-144F3C36AE02} = {173D5539-A0C5-4E14-92F7-9F0459099FED}
+		{A7985546-DC30-49CD-B163-6444C6CDBCED} = {173D5539-A0C5-4E14-92F7-9F0459099FED}
+		{4221123E-5456-43EF-B66C-02B876FB171C} = {173D5539-A0C5-4E14-92F7-9F0459099FED}
+		{49D9DF7F-93DE-4323-BBCB-44059B5B7BB8} = {173D5539-A0C5-4E14-92F7-9F0459099FED}
+		{1520447B-ACA4-4F24-B5C4-420F108D935D} = {173D5539-A0C5-4E14-92F7-9F0459099FED}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AE75104-1BC7-40F1-BB90-B939D6B473AD}
+	EndGlobalSection
+EndGlobal

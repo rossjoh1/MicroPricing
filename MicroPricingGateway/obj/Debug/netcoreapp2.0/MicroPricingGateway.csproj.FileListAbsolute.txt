@@ -1,0 +1,10 @@
+D:\Code\MicroPricing\MicroPricingGateway\obj\Debug\netcoreapp2.0\MicroPricingGateway.csproj.CoreCompileInputs.cache
+D:\Code\MicroPricing\MicroPricingGateway\obj\Debug\netcoreapp2.0\MicroPricingGateway.AssemblyInfoInputs.cache
+D:\Code\MicroPricing\MicroPricingGateway\obj\Debug\netcoreapp2.0\MicroPricingGateway.AssemblyInfo.cs
+D:\Code\MicroPricing\MicroPricingGateway\bin\Debug\netcoreapp2.0\MicroPricingGateway.deps.json
+D:\Code\MicroPricing\MicroPricingGateway\bin\Debug\netcoreapp2.0\MicroPricingGateway.runtimeconfig.json
+D:\Code\MicroPricing\MicroPricingGateway\bin\Debug\netcoreapp2.0\MicroPricingGateway.runtimeconfig.dev.json
+D:\Code\MicroPricing\MicroPricingGateway\bin\Debug\netcoreapp2.0\MicroPricingGateway.dll
+D:\Code\MicroPricing\MicroPricingGateway\bin\Debug\netcoreapp2.0\MicroPricingGateway.pdb
+D:\Code\MicroPricing\MicroPricingGateway\obj\Debug\netcoreapp2.0\MicroPricingGateway.dll
+D:\Code\MicroPricing\MicroPricingGateway\obj\Debug\netcoreapp2.0\MicroPricingGateway.pdb
